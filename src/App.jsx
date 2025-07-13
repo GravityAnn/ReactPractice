@@ -1,6 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
 import { useState } from "react";
+import React from "react";
 
 function App() {
   let post = "동대문구 우동 맛집";
